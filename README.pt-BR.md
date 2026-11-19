@@ -4,7 +4,9 @@
 
 Um conjunto de ferramentas de PDF para Windows, para organizar materiais escolares e executar tarefas comuns com PDFs: montar, dividir, extrair e otimizar documentos, tudo localmente e sem alterar os arquivos originais.
 
-<!-- SCREENSHOT_PENDENTE: ainda não há screenshot aprovado e atual. Adicione aqui como assets/screenshots/<nome>.png depois de capturar e revisar uma. -->
+![Módulo Organizar Materiais mostrando um PDF de exemplo dividido em três materiais confirmados e exportados](assets/screenshots/organize-materials.png)
+
+*Módulo Organizar Materiais, capturado do aplicativo com um PDF de exemplo sintético. É uma versão anterior (Fase 4.8): a janela principal ganhou depois as abas Montar PDF, Dividir/Extrair/Otimizar e Histórico, que não aparecem aqui. As capturas da versão atual estão pendentes.*
 
 ## Visão geral
 

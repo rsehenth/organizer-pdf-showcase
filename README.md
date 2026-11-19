@@ -4,7 +4,9 @@
 
 A Windows desktop toolkit for organizing school materials and performing everyday PDF work: assemble, split, extract and optimize documents, all locally and without touching the original files.
 
-<!-- SCREENSHOT_PENDENTE: no approved, current screenshot is available yet. Add it here as assets/screenshots/<name>.png once one is captured and reviewed. -->
+![Organize Materials module showing a sample PDF split into three confirmed and exported materials](assets/screenshots/organize-materials.png)
+
+*Organize Materials module, captured from the application with a synthetic sample PDF. This is an earlier build (Phase 4.8): the main window has since gained the Assemble PDF, Split/Extract/Optimize and History tabs, which are not shown here. Screenshots of the current build are pending.*
 
 ## Overview
 
